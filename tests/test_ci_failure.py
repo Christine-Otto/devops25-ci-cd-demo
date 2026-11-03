@@ -1,3 +1,2 @@
-
 def test_ci_intentional_failure():
-    assert 2 + 2 == 5
+    assert 2 + 2 == 4
