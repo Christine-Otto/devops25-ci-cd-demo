@@ -54,3 +54,8 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+## Dag 2 – CI-felsökning
+
+Jag undersöker hur GitHub Actions fungerar och hur man felsöker en pipeline.
+
+Målet är att förstå skillnaden mellan en lyckad och en misslyckad CI-körning.
