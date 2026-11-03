@@ -54,3 +54,12 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+
+
+## Min Git-övning – Dag 1
+
+Jag har skapat en egen Git-branch för att arbeta utan att ändra main.
+
+Jag har lärt mig att git diff visar ändringar och att git commit sparar ändringarna lokalt.
+
+En Pull Request används för att föreslå ändringar som kan granskas innan de slås ihop med main.
