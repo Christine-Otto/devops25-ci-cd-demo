@@ -63,6 +63,8 @@ Jag har skapat en egen Git-branch för att arbeta utan att ändra main.
 Jag har lärt mig att git diff visar ändringar och att git commit sparar ändringarna lokalt.
 
 En Pull Request används för att föreslå ändringar som kan granskas innan de slås ihop med main.
+
+
 ## Dag 2 – Continuous Integration
 
 Under Dag 2 arbetar jag med CI och GitHub Actions.
@@ -71,3 +73,12 @@ Syftet med CI är att automatiskt kontrollera kodändringar.
 
 Jag ska testa hur en pipeline startar, läsa loggar och
 undersöka vad som händer när ett test misslyckas.
+
+
+## Dag 2 – CI-labb
+
+Denna övning visar hur GitHub Actions automatiskt
+kan kontrollera kodändringar.
+
+Vi testar en fungerande pipeline, skapar ett
+avsiktligt fel och rättar sedan felet.
